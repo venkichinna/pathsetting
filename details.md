@@ -20,4 +20,4 @@ Operating systems require the environment variables as settings and configuratio
 6. In the Environment Variables window, highlight the Path variable in the System variables section and click the Edit button.
  Add or modify the path lines with the paths you want the computer to access. Each different directory is separated with a semicolon.
 
-[Here You can see example](example.md)
+[How to enable git in VS Code terminal or Command Prompt](example.md)

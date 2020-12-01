@@ -1,4 +1,4 @@
-# Here is one Example
+# How to enable git in VS Code or Command prompt
 
 _When your VS Code Terminal or Command Prompt Doesn't recognize you Git Command's_    
 ![picture1](problem.png)  
