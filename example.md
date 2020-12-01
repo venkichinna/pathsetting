@@ -1,5 +1,8 @@
 # Here is one Example
 
+_When your VS Code Terminal or Command Prompt is not Recognized you Git Command's_    
+![picture1](screenshot1.png)
+
 **_When your VS Code Terminal or Command Prompt is not Recognized you Git Command's Do Follow these Steps:-_**
 
 1. Open Control panel   
