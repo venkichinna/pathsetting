@@ -1,1 +1,1 @@
-**_[Path and environment variables](details.md)_**
+**_[Path and Environment Variables](details.md)_**   
