@@ -1,7 +1,7 @@
 # Here is one Example
 
 _When your VS Code Terminal or Command Prompt is not Recognized you Git Command's_    
-![picture1](screenshot1.png)
+![picture1](problem.png)  
 
 **_When your VS Code Terminal or Command Prompt is not Recognized you Git Command's Do Follow Below Steps:-_**
 
