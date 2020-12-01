@@ -9,7 +9,7 @@ _When your VS Code Terminal or Command Prompt is not Recognized you Git Command'
 ![example1](step1.png)   
 
 2. Select System and Security in the control panel     
-![exapmle2](step.png)     
+![exapmle2](step2.png)     
 
 3. After Selecting System and Security, choose the SYSTEM option.    
 ![example3](step3.png)     
