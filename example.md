@@ -3,7 +3,7 @@
 _When your VS Code Terminal or Command Prompt is not Recognized you Git Command's_    
 ![picture1](problem.png)  
 
-**_When your VS Code Terminal or Command Prompt is not Recognized you Git Command's Do Follow Below Steps:-_**
+**_When your VS Code Terminal or Command Prompt Doesn't Recognized you Git Command's Do Follow Below Steps:-_**
 
 1. Open Control panel    
 ![example1](step1.png)   
